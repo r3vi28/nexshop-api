@@ -4,6 +4,7 @@ node_modules/
 # Build
 dist/
 build/
+/src/generated/
 
 # Environment variables
 .env

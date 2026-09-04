@@ -36,5 +36,5 @@ Thumbs.db
 *.tmp
 *.temp
 
-AGENT_PROMPT.md
-PLANNING.md
+# Instructions context and other documents for my agent
+agent/
